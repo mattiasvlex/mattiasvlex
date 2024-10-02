@@ -1,6 +1,6 @@
 ## Hi there 👋   My name is Mattias
 
-🔭 I’m currently working on my intership project, a CRM-system with ASP.NET as backend and React as frontend.
+🔭 I’m currently working on my internship project at Lexicon Malmö, a CRM-system with ASP.NET as backend and React as frontend.
 
 🌱 I'm currently learning:  More .NET and C#, and Svelte.
 
